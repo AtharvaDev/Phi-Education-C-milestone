@@ -13,3 +13,4 @@ int main(){
     printf("%d to the power %d is %f",x,n,power);
     return 0;
 }
+
